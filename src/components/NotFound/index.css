@@ -1,0 +1,20 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: roboto;
+}
+.not-found-container img {
+  height: 50vh;
+  width: 25vw;
+}
+.not-found-container h1 {
+  color: #183b56;
+  font-size: 28px;
+}
+.not-found-container p {
+  font-size: 20px;
+  color: #5a7184;
+}
